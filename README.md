@@ -7,6 +7,9 @@
    <a href="https://twitter.com/dev_klemen">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a>
+    <img src="https://img.shields.io/twitter/follow/dev_klemen?color=blue&logo=twitter&logoColor=blue&style=for-the-badge">
+    </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=KlemenM&style=flat-square&color=blue" alt=""/>
   <h1>
